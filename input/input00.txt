@@ -1,0 +1,7 @@
+bbbbbbbbaaaaaccaaaaabbbbbbbbaaaaabbbbaaaaaabbbbaaaaabccccbaaaaabbbbaaaaaabbbbaaaaaaaaaabbbbaaaaaabbbbaaaaabccccbaaaaabbbbaaaaaabbbbaaaaabbbbbbbbaaaaaccaaaaabbbbbbbb
+5
+cbc
+abbbba
+cbc
+acca
+bb
